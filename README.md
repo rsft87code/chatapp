@@ -17,8 +17,10 @@
 
 All chats are stored in a database, ,
 
-use of tool and technology,  ,
-frontend - HTML, CSS, Bootstrap and JavaSript,  ,
+use of tool and technology,  
+
+frontend - HTML, CSS, Bootstrap and JavaSript,  
+
 Backend - Nodejs ,ExpressJs,Socket.io and database is  MongoDB(Mongoose)
 
 
