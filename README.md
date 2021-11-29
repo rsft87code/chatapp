@@ -15,10 +15,10 @@
 ![mitishachat](https://user-images.githubusercontent.com/53462253/143817486-899e9e08-6b50-48e6-b874-2e36547380c1.png)
 
 
-All chats are stored in a database
+All chats are stored in a database, ,
 
-tool and technology
-frontend - HTML, CSS, Bootstrap and JavaSript
+use of tool and technology,  ,
+frontend - HTML, CSS, Bootstrap and JavaSript,  ,
 Backend - Nodejs ,ExpressJs,Socket.io and database is  MongoDB(Mongoose)
 
 
